@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <a href="https://github.com/appmaster913" target="_blank">
-  <img src="https://raw.githubusercontent.com/appmaster913/appmaster913/my face photo.png alt="GitHub Portfolio" style="width: 100%; max-width: 600px; border-radius: 8px;">
+  <img src="https://github.com/appmaster913/appmaster913/top_image.png alt="GitHub Portfolio" style="width: 100%; max-width: 600px; border-radius: 8px;">
 </a>
 
 ### :woman_technologist: About Me :
