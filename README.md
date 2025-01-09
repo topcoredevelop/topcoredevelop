@@ -12,7 +12,7 @@ I am a Python / Full Stack / Blockchain Developer <img src="https://media.giphy.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: jw7889208@gmail.com , whatsapp : +12295886534 , Tele  : +19832054513
+- :mailbox:How to reach me: jw7889208@gmail.com , whatsapp : +12295886534 , Telegram  : @appmaster913
 
 -  :Certification Certificate can be viewed [here](https://www.hackerrank.com/profile/jw7889208)
 <!---
