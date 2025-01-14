@@ -94,6 +94,20 @@
     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9b09b2fe3c18da00badbc02c31001b285706dd8c1a91311531b600af2b03235/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61267468656d653d6c69676874"><img src="https://camo.githubusercontent.com/b9b09b2fe3c18da00badbc02c31001b285706dd8c1a91311531b600af2b03235/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61267468656d653d6c69676874" width="100" title="Figma" data-canonical-src="https://skillicons.dev/icons?i=figma&amp;theme=light" style="max-width: 100%;"></a></td>
   </tr>
 </tbody></table>
+---
+## 📜 Certifications
+
+- **Certified Kubernetes Administrator (CKA)** - *The Linux Foundation*  
+  *Issued: January 2023*  
+  [View Certification]([https://example.com](https://www.hackerrank.com/certificates/a0e067c988df))
+
+- **AWS Certified Solutions Architect – Associate** - *Amazon Web Services (AWS)*  
+  *Issued: July 2022*  
+  [View Certification](https://example.com)
+
+- **Microsoft Certified: Azure Developer Associate** - *Microsoft*  
+  *Issued: May 2021*  
+  [View Certification](https://example.com)
 
 
 
