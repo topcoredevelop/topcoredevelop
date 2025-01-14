@@ -1,4 +1,4 @@
-# Fullstack Web Developer with 8+ years of experience in
+# Fullstack Web Developer with 6+ years of experience in
 
 - ✅ **JavaScript/TypeScript, Node/Express/Nest.js, Socket.io**
 - ✅ **Python/Django/Flask/FastAPI, Java/SpringBoot, Golang/Gin/Gofiber**
