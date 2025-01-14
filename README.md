@@ -97,17 +97,20 @@
 ---
 ## 📜 Certifications
 
-- **Certified Kubernetes Administrator (CKA)** - *The Linux Foundation*  
-  *Issued: January 2023*  
-  [View Certification](https://www.hackerrank.com/certificates/a0e067c988df)
+## 📜 Certifications
 
-- **AWS Certified Solutions Architect – Associate** - *Amazon Web Services (AWS)*  
-  *Issued: July 2022*  
-  [View Certification](https://example.com)
+### Problem Solving (Basic)
+<iframe src="https://www.hackerrank.com/certificates/iframe/a0e067c988df" 
+        width="600" 
+        height="300" 
+        style="border: none;"></iframe>
 
-- **Microsoft Certified: Azure Developer Associate** - *Microsoft*  
-  *Issued: May 2021*  
-  [View Certification](https://example.com)
+### Python (Basic)
+<iframe src="https://www.hackerrank.com/certificates/iframe/ce03e36abe1d" 
+        width="600" 
+        height="300" 
+        style="border: none;"></iframe>
+
 
 
 
