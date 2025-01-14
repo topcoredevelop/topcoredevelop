@@ -98,14 +98,13 @@
 ## 📜 Certifications
 
 ## 📜 Certifications
-
-### Problem Solving (Basic)
+<div>
 <iframe src="https://www.hackerrank.com/certificates/iframe/a0e067c988df" 
         width="600" 
         height="300" 
         style="border: none;"></iframe>
-
-### Python (Basic)
+</div>
+        
 <iframe src="https://www.hackerrank.com/certificates/iframe/ce03e36abe1d" 
         width="600" 
         height="300" 
