@@ -99,7 +99,7 @@
 
 - **Certified Kubernetes Administrator (CKA)** - *The Linux Foundation*  
   *Issued: January 2023*  
-  [View Certification]([https://example.com](https://www.hackerrank.com/certificates/a0e067c988df))
+  [View Certification](https://www.hackerrank.com/certificates/a0e067c988df)
 
 - **AWS Certified Solutions Architect – Associate** - *Amazon Web Services (AWS)*  
   *Issued: July 2022*  
