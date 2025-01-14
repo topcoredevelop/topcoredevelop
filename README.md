@@ -1,6 +1,6 @@
 **Hey Everyone 👋**
 ---
-Hi. I'm a Full-Stack developer who likes to work with Blockchain(Solana, Terra, Ethereum, Binance, Polygon, Fantom || Rust, Solidity, Go/Golang, Web3.js, Ether.js, Terra.js), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest),** Python(Django, Flask) among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
+Hi. I'm a Full-Stack developer who likes to work with **Blockchain(Solana, Terra, Ethereum, Binance, Polygon, Fantom || Rust, Solidity, Go/Golang, Web3.js, Ether.js, Terra.js), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Express, Nest),** **Python(Django, Flask)** among others. Since I've graduated the university, I’ve joined several companies and **dev teams** to build **web and mobile apps**.
 
 Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi DApp and NFT marketplace development stack.
 
