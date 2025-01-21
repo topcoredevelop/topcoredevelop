@@ -109,17 +109,7 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 ## 📜 Certifications
 
 ## 📜 Certifications
-<div>
-<iframe src="https://www.hackerrank.com/certificates/iframe/a0e067c988df" 
-        width="600" 
-        height="300" 
-        style="border: none;"></iframe>
-</div>
-        
-<iframe src="https://www.hackerrank.com/certificates/iframe/ce03e36abe1d" 
-        width="600" 
-        height="300" 
-        style="border: none;"></iframe>
+
 
 
 
