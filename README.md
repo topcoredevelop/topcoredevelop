@@ -8,6 +8,7 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 - 🌱 I’m currently working with **blockchain technologies**
 - 🤔 I’m looking to help with buliding **defi, dapp, NFT marketplace, and web apps**
 - 💬 Ask me about **web and blockchain development**
+- Contact information : skype : live:.cid.b5cdb2e8e87dc209     Telegram : @appmaster0913    Discord : @topdevstar0913    email : jw7889208@gmail.com
 ---
 # Fullstack Web Developer with 6+ years of experience in
 
